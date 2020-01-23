@@ -1,2 +1,2 @@
-# VIS1
+# VIS
 Vehicle Information System
